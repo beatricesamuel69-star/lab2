@@ -5,4 +5,7 @@
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
 - [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
+
+      
 - [x] Push your progress to GitHub!
+![ezgif-733fd9ea0b3baea1](https://github.com/user-attachments/assets/e26ce9aa-0687-4a17-8f6c-8ad9eae5a7a2)
